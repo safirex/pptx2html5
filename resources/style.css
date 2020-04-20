@@ -1,0 +1,64 @@
+body {
+	background-color: lightgrey;
+}
+
+.diapo {
+	position: relative;
+	padding-top: 2px;
+	bottom: 2px;
+	margin: auto;
+	clear: both;
+	border: 5px black solid;
+	background-size: 100%;
+}
+
+.none {
+	display: none;
+}
+
+button img {
+	width: 10px;
+	height: 10px;
+}
+
+.nav {
+	position: relative;
+	bottom: 2px;
+	margin: auto;
+	clear: both;
+	border: 2px black solid;
+	background-color: black;
+}
+
+.diapo button {
+	width: 100x;
+	height: 50px;
+	display: block;
+	margin: auto;
+}
+
+button {
+	color: white;
+	background-color: black;
+	border: none;
+	margin-bottom: 5px;
+}
+
+button:hover{
+	background-color: gray;
+}
+
+#numDiapo{
+	color: white;
+	background-color: black;
+	border-top: none;
+	border-left: none;
+	border-right: none;
+	border-bottom: 1px white solid;
+}
+
+progress{
+	margin-bottom: 5px;
+	width: 85%;
+	height: 5px;
+}
