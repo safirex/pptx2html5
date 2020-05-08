@@ -1,5 +1,7 @@
 # pptx2html5
 
+
+
 Le but de ce projet est de créer un outil permettant de transformer un fichier PPTX en une animation HTML5 conservant les media, animations et les liens de celui-ci.
 
 Le résultat produit devra être facilement déplaçable par un non informaticien de manière que celui-ci puisse l’intégrer dans le LMS de son établissement ou sur une page web de son choix.
@@ -34,7 +36,7 @@ A la suite de l’exécution, le résultat en html sera exporté dans un répert
 * Chatin Eudes
 * Relevat Chiara
 
-Voir aussi [Contributeurs](https://git-iutinfo.unice.fr/rey/pt-s4t-g1-pptx2html5/-/graphs/master) pour une liste complète des contributeurs.
+
 
 ## Licence
 
